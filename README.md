@@ -1,16 +1,61 @@
-# React + Vite
+# Taxi Kitchen Room
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web application project using **React + Vite**.  
+This template sets up a minimal React + Vite environment with hot module replacement and some ESLint configuration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## React Compiler
+- [Features](#features)  
+- [Demo / Screenshots](#demo--screenshots)  
+- [Tech Stack](#tech-stack)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Running](#running)  
+  - [Building](#building)  
+- [Project Structure](#project-structure)  
+- [Code Style & Linting](#code-style--linting)  
+- [Contributing](#contributing)  
+- [License & Acknowledgements](#license--acknowledgements)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React application scaffolded using Vite  
+- Hot Module Replacement (HMR) during development  
+- ESLint setup for code quality  
+- Basic configuration ready for extension to production-level app  
+
+---
+
+## Demo / Screenshots
+
+*(You can insert screenshots or a demo link here once available.)*
+
+---
+
+## Tech Stack
+
+- **Framework / UI**: React  
+- **Build tool / dev server**: Vite  
+- **Linting / Code quality**: ESLint  
+- **Other**: (Add any additional libraries or tools your project uses)  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+You need to have **Node.js** (v16+ recommended) and **npm** (or Yarn / pnpm) installed on your system.
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ShahriarRefat0/Taxi-Kitchen-Room.git
+cd Taxi-Kitchen-Room
